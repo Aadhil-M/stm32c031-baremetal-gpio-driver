@@ -1,7 +1,7 @@
 /**
  ******************************************************************************
  * @file    stm32c031xx.h
- * @author  Your Name
+ * @author  Muhammad Aadhil
  * @brief   Device header file for STM32C031 microcontroller.
  *
  * @details This file contains:
